@@ -2,7 +2,7 @@
 
 [About task](./JavaScript-HW-Interview.pdf)<br>
 
-Solution:
+##Solution:
 
 [main file with fileContents()](./index.js)
 
@@ -17,6 +17,12 @@ Helpers:<br>
 [getResultHumidity(reference, values)](./helpers/getResultHumidity.js)
 
 [getResultThermometer(reference, values)](./helpers/getResultThermometer.js)
+
+Testing somthing module:<br>
+
+[testing module index.js]('/tests/index.test.js)
+
+[testing module getReference.js]('/tests/getReference.test.js)
 
 ## Available Scripts
 
