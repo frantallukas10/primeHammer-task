@@ -18,7 +18,7 @@
 
 [getResultThermometer(reference, values)](./helpers/getResultThermometer.js)
 
-Testing somthing module:<br>
+## Testing somthing module:<br>
 
 [testing module index.js]('/tests/index.test.js)
 
