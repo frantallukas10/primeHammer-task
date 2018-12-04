@@ -2,13 +2,13 @@
 
 [About task](./JavaScript-HW-Interview.pdf)<br>
 
-##Solution:
+## Solution:
 
 [main file with fileContents()](./index.js)
 
 [evaluateLogFile()](./evaluateLogFile.js)
 
-Helpers:<br>
+## Helpers:<br>
 
 [getReference(check, thermometer, humidity)](./helpers/getReference.js)
 
