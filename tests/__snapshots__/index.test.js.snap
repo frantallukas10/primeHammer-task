@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test file reading data with fs 1st sample 1`] = `
+Object {
+  "hum-1": "keep",
+  "hum-2": "discard",
+  "temp-1": "presise",
+  "temp-2": "ultra presise",
+}
+`;

@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test check getReference function 1st sample 1`] = `
+Object {
+  "humidity": 45,
+  "thermometer": 70,
+}
+`;
+
+exports[`Test check getReference function 2st sample 1`] = `
+"First line of file should start with reference line and
+      it shoud contain referenc text,
+      thermometer value should number,
+      humidity value should number.
+      actual values are: 45.0"
+`;
+
+exports[`Test check getReference function 3st sample 1`] = `
+"First line of file should start with reference line and
+      it shoud contain referenc text,
+      thermometer value should number,
+      humidity value should number.
+      actual values are: "
+`;
+
+exports[`Test check getReference function 4st sample 1`] = `
+"First line of file should start with reference line and
+      it shoud contain referenc text,
+      thermometer value should number,
+      humidity value should number.
+      actual values are: 45.0"
+`;
+
+exports[`Test check getReference function 5st sample 1`] = `
+"First line of file should start with reference line and
+      it shoud contain referenc text,
+      thermometer value should number,
+      humidity value should number.
+      actual values are: bla"
+`;
+
+exports[`Test check getReference function 6st sample 1`] = `
+"First line of file should start with reference line and
+      it shoud contain referenc text,
+      thermometer value should number,
+      humidity value should number.
+      actual values are: 10"
+`;
+
+exports[`Test check getReference function 7st sample 1`] = `
+"First line of file should start with reference line and
+      it shoud contain referenc text,
+      thermometer value should number,
+      humidity value should number.
+      actual values are: 10"
+`;
+
+exports[`Test check getReference function 8st sample 1`] = `
+"First line of file should start with reference line and
+      it shoud contain referenc text,
+      thermometer value should number,
+      humidity value should number.
+      actual values are: 10"
+`;
