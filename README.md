@@ -4,11 +4,15 @@
 
 ## Solution:
 
-[main file with fileContents()](./index.js)
+### main:<br>
 
-[evaluateLogFile()](./evaluateLogFile.js)
+[index.js](./index.js)
 
-## Helpers:<br>
+[evaluateLogFile.js](./evaluateLogFile.js)
+
+[package.json](./package.json)
+
+### Helpers:<br>
 
 [getReference(check, thermometer, humidity)](./helpers/getReference.js)
 
@@ -18,15 +22,7 @@
 
 [getResultThermometer(reference, values)](./helpers/getResultThermometer.js)
 
-## main:<br>
-
-[index.js](./index.js)
-
-[evaluateLogFile.js](./evaluateLogFile.js)
-
-[package.json](./package.json)
-
-## Testing somthing module:<br>
+### Testing somthing module:<br>
 
 [testing module index.js](./tests/index.test.js)
 
