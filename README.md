@@ -18,11 +18,19 @@
 
 [getResultThermometer(reference, values)](./helpers/getResultThermometer.js)
 
+## main:<br>
+
+[index.js](./index.js)
+
+[evaluateLogFile.js](./evaluateLogFile.js)
+
+[package.json](./package.json)
+
 ## Testing somthing module:<br>
 
-[testing module index.js]('/tests/index.test.js)
+[testing module index.js](./tests/index.test.js)
 
-[testing module getReference.js]('/tests/getReference.test.js)
+[testing module getReference.js](./tests/getReference.test.js)
 
 ## Available Scripts
 
