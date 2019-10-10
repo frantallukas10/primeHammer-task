@@ -16,7 +16,7 @@
 
 [getReference(check, thermometer, humidity)](./helpers/getReference.js)
 
-[{getResult(column, reference, values),isFirstLine(sensorType)}](./helpers/getResult.js)
+[getResult(column, reference, values),isFirstLine(sensorType)](./helpers/getResult.js)
 
 [getResultHumidity(reference, values)](./helpers/getResultHumidity.js)
 
